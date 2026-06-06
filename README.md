@@ -1,7 +1,7 @@
 # Betting Scraper
 
 ## Overview
-This project retrieves NBA betting odds using reverse-engineered API endpoints.
+This project retrieves NBA betting odds using API endpoints.
 
 ## Features
 - Fetches events from /GetGroup
