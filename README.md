@@ -10,6 +10,14 @@ This project retrieves NBA betting odds using API endpoints.
 - Polls /GetEventsWithMultipleMarkets
 - Parses odds into structured data classes
 
+## Educational Purpose
+This project was created as part of a cybersecurity and Python programming learning exercise. 
+The goal was to gain experience working with web APIs, JSON data, HTTP requests, and Python data structures.
+
+## Acceptable Use
+This project was created for educational purposes to demonstrate HTTP requests, JSON processing, and data extraction techniques. 
+Users are responsible for complying with applicable laws and website terms of service.
+
 ## Requirements
 - Python 3.11 or newer
 - pip
